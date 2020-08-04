@@ -1,4 +1,5 @@
 public class User {
- private int id;
-  private String password;
+private int id;
+private String name;
+private String password;
 }
